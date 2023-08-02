@@ -1,9 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T09:24:46.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ig5uw4d2SliEDh_8Loyi" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T09:31:38.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="dkHSqVd19SF7RxezE1zA" version="21.6.6" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1671" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PKGDW48XH8u3NRs4ERn_-1" target="PKGDW48XH8u3NRs4ERn_-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="995" y="482" />
+              <mxPoint x="995" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-19" value="Wi-Fi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PKGDW48XH8u3NRs4ERn_-18">
+          <mxGeometry x="0.0051" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PKGDW48XH8u3NRs4ERn_-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
           <mxGeometry x="700" y="440" width="100" height="85" as="geometry" />
         </mxCell>
@@ -11,19 +24,16 @@
           <mxGeometry x="715" y="525" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKGDW48XH8u3NRs4ERn_-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;" vertex="1" parent="1">
-          <mxGeometry x="210" y="440" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="PKGDW48XH8u3NRs4ERn_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKGDW48XH8u3NRs4ERn_-4" target="PKGDW48XH8u3NRs4ERn_-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="405" y="450" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PKGDW48XH8u3NRs4ERn_-4" value="Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="555" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKGDW48XH8u3NRs4ERn_-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
-          <mxGeometry x="715" y="830" width="100" height="30" as="geometry" />
+          <mxGeometry x="700" y="730" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKGDW48XH8u3NRs4ERn_-7" value="LED lighter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="890" width="60" height="30" as="geometry" />
+          <mxGeometry x="725" y="780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKGDW48XH8u3NRs4ERn_-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
           <mxGeometry x="1190" y="495" width="100" height="30" as="geometry" />
@@ -34,11 +44,72 @@
         <mxCell id="PKGDW48XH8u3NRs4ERn_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PKGDW48XH8u3NRs4ERn_-8" target="PKGDW48XH8u3NRs4ERn_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="160" as="sourcePoint" />
+            <mxPoint x="765" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="170" />
+              <mxPoint x="765" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-21" value="based on REST/API/SOAP web service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PKGDW48XH8u3NRs4ERn_-20">
+          <mxGeometry x="-0.479" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKGDW48XH8u3NRs4ERn_-11" target="PKGDW48XH8u3NRs4ERn_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-25" value="HTTTPS control" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PKGDW48XH8u3NRs4ERn_-24">
+          <mxGeometry x="-0.0119" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PKGDW48XH8u3NRs4ERn_-11" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="1">
           <mxGeometry x="440" y="100" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PKGDW48XH8u3NRs4ERn_-12" value="iOS/Android application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="435" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKGDW48XH8u3NRs4ERn_-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-27" value="UDP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PKGDW48XH8u3NRs4ERn_-26">
+          <mxGeometry x="0.0362" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-13" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-15" value="IoT device:smart ring" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.608;entryY=1.171;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PKGDW48XH8u3NRs4ERn_-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="758" y="700" as="sourcePoint" />
+            <mxPoint x="860" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-17" value="ZigBee HA1.2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PKGDW48XH8u3NRs4ERn_-16">
+          <mxGeometry x="-0.0447" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKGDW48XH8u3NRs4ERn_-3" target="PKGDW48XH8u3NRs4ERn_-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="410" as="sourcePoint" />
+            <mxPoint x="860" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKGDW48XH8u3NRs4ERn_-23" value="use control" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PKGDW48XH8u3NRs4ERn_-22">
+          <mxGeometry x="-0.0093" y="-5" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
